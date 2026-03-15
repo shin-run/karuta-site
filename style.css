@@ -126,3 +126,17 @@ p{
 }
 
 }
+
+.instagram-link{
+    font-weight: bold;
+}
+
+.instagram-link a{
+    color: #8b0000;
+    text-decoration: none;
+    margin-left: 8px;
+}
+
+.instagram-link a:hover{
+    text-decoration: underline;
+}
